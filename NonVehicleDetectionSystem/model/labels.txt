@@ -1,0 +1,8 @@
+car
+bike
+truck
+bus
+ship
+plane
+motorcycle
+non_vehicle

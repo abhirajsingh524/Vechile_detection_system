@@ -1,0 +1,13 @@
+filename,label,confidence,accurate
+camera_capture.png,non_vehicle,0.9500,true
+2026-01-30T07:19:01.703024400Z,sample_input.png,non_vehicle,0.6457,false
+2026-01-30T07:19:41.517271900Z,sample_input.png,non_vehicle,0.6457,false
+2026-01-30T07:20:16.311802500Z,sample_input.png,non_vehicle,0.6457,false
+2026-01-30T07:21:11.324779700Z,sample_input.png,non_vehicle,0.6457,false
+2026-01-30T07:24:37.243752600Z,sample_input.png,non_vehicle,0.6457,false
+2026-01-31T04:23:42.999215400Z,Bike (3).jpg,non_vehicle,0.6457,true
+2026-01-31T04:27:27.840381400Z,Plane (5).jpg,non_vehicle,0.6457,true
+2026-01-31T04:36:21.735975700Z,Plane (11).JPG,non_vehicle,0.6457,true
+2026-01-31T08:16:09.655413100Z,Plane (15).jpg,vehicle,0.6757,true
+2026-01-31T08:23:39.304346Z,Train (18).jpg,vehicle,0.6457,true
+2026-02-03T04:51:11.507693600Z,Motorcycle (9).jpg,vehicle,0.6457,true

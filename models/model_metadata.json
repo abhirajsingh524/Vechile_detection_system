@@ -1,0 +1,13 @@
+{
+  "trained_on": "20260131T103230Z",
+  "val_accuracy": 0.8758949637413025,
+  "classes": [
+    "Auto Rickshaws",
+    "Bikes",
+    "Cars",
+    "Motorcycles",
+    "Planes",
+    "Ships",
+    "Trains"
+  ]
+}

@@ -1,0 +1,7 @@
+torch>=2.0
+torchvision>=0.15
+torchmetrics>=0.11
+pillow
+numpy
+tqdm
+scikit-learn
